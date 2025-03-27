@@ -1,9 +1,25 @@
 
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-INDEPENDENT-SEGMENTS
-
-# variants
-#EXT-X-STREAM-INF:BANDWIDTH=4646400,AVERAGE-BANDWIDTH=4470400,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=50
-https://raw.githubusercontent.com/Pahlawan85/VOD/refs/heads/main/warna-0
-###https://haoyunlai.serv00.net/Smartv-1.php?id=Warna-O
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:1743018305
+#EXTINF:4.000000,
+Smartv.php?id=Warna-O&ts=160341_1743018305.ts
+#EXTINF:10.000000,
+Smartv.php?id=Warna-O&ts=160351_1743018306.ts
+#EXTINF:4.000000,
+Smartv.php?id=Warna-O&ts=160401_1743018307.ts
+#EXTINF:4.000000,
+Smartv.php?id=Warna-O&ts=160411_1743018308.ts
+#EXTINF:4.000000,
+Smartv.php?id=Warna-O&ts=160421_1743018309.ts
+#EXTINF:4.000000,
+Smartv.php?id=Warna-O&ts=160431_1743018310.ts
+#EXTINF:4.000000,
+Smartv.php?id=Warna-O&ts=160441_1743018311.ts
+#EXTINF:4.000000,
+Smartv.php?id=Warna-O&ts=160451_1743018312.ts
+#EXTINF:4.000000,
+Smartv.php?id=Warna-O&ts=160501_1743018313.ts
+#EXTINF:4.000000,
+Smartv.php?id=Warna-O&ts=160511_1743018314.ts
