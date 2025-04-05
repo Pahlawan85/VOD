@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=2200000,RESOLUTION=1920x1080,FRAME-RATE=50
-https://live-03.tonton.com.my/live-hls/tonton10_720p/index.m3u8?exp=1743871347
+https://live-03.tonton.com.my/live-hls/tonton10_720p/index.m3u8?exp=1743873986&hmac=0x8fba52e89dc46e3176c8b6f9076684c2161ee67eb1f3bbf85799ff50f461716a
