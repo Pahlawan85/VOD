@@ -4,6 +4,6 @@
 
 # variants
 #EXT-X-STREAM-INF:BANDWIDTH=4646400,AVERAGE-BANDWIDTH=4470400,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=50
-http://50.7.234.10:8278/Warna-O/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=0c1495a5518beb73a9aa05ac2ee06870
-#https://haoyunlai.serv00.net/Smartv-1.php?id=Warna-O
+https://haoyunlai.serv00.net/Smartv-1.php?id=Warna-O
+#http://50.7.234.10:8278/Warna-O/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=0c1495a5518beb73a9aa05ac2ee06870
 http://50.7.234.10:8278/Warna-O/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=86d24c67ba0cc5a260cf7e51f16fdb81
