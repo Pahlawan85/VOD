@@ -1,6 +1,5 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=1546400,CODECS="avc1.64001F,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=50
-http://50.7.234.10:8278/Warna/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=3b80042009b1f0e8e25ce5fca11b9888
-https://haoyunlai.serv00.net/Smartv-1.php?id=Warna-O
+https://haoyunlai.serv00.net/Smartv-1.php?id=Warna
 
 
