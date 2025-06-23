@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=1446400,RESOLUTION=1280x720,FRAME-RATE=25
-https://smart.pendy.dpdns.org/Smart.php?id=TV3
 https://smart.pendy.dpdns.org/Smart.php?id=TV3_mega
+
+https://smart.pendy.dpdns.org/Smart.php?id=TV3
